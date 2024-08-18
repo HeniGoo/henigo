@@ -40,8 +40,7 @@ const HomeHeader = () => {
           <AnimatedBox variant="fadeIn">
             <Description style={{ fontStyle: "italic" }}>
               &quot;I am dedicated customer support with a high level skill of
-              virtual assistant and enthuhist in blockchain and crypto
-              <span className="pixel">customer support.</span>&quot; I excel in
+              virtual assistant and enthuhist in blockchain and crypto. I excel in
               hubspot, slack and different crm tools .
             </Description>
           </AnimatedBox>
