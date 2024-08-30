@@ -12,55 +12,32 @@ const experiences = [
     company: "Addis International Bank",
     description:
       "Supported the development and execution of 6+ multi-channel marketing campaigns for Addis Bank. Provided exceptional customer service, consistently exceeding satisfaction ratings. Developed clear reports, visualizing key performance indicators for the branch operation department.",
-    icon: "<Work />",
+    icon: <Work />,
   },
   {
     duration: "June 2023 - Present",
-    title: "Marketing Manager",
+    title: "volunteer",
     company: "Ethiopian Youth Entrepreneur Association",
     description:
       "Revamped social media presence and increased organic engagement. Collaborated on influencer outreach programs and analyzed data to identify trends. Worked closely with influencers on platforms like TikTok, YouTube, and Instagram to advertise the EYEA brand. Planned and executed marketing events, managed budgets, and coordinated with various vendors.",
-    icon: "<Work />",
+    icon: <Work />,
   },
-  {
-    duration: "September 2020 - October 2022",
-    title: "Marketing Manager",
-    company: "Zebib Transport PLC",
-    description:
-      "Developed and implemented marketing strategies for customer acquisition and retention. Managed social media posts, activities, and campaigns. Collaborated with influencers to create brand awareness and monitored marketing metrics to make data-driven decisions. Organized events and trained team members.",
-    icon: "<Work />",
-  },
-  {
-    duration: "September 2019 - August 2020",
-    title: "Senior Marketing Specialist",
-    company: "Zebib Transport PLC",
-    description:
-      "Oversaw marketing strategies, analyzed market trends, and developed tactics to promote the company. Assisted the sales team in creating business development plans. Provided strategic input and oversaw company participation in trade shows and conferences.",
-    icon: "<Work />",
-  },
-  {
-    duration: "October 2018 - August 2019",
-    title: "Junior Marketing Specialist",
-    company: "Zebib Transport PLC",
-    description:
-      "Conducted market research, contacted clients, and supported the senior marketing manager. Assisted in planning and executing marketing plans. Supported internal and external events.",
-    icon: "<Work />",
-  },
+  
   {
     duration: "September 2018 - November 2021",
     title: "Accounting and Finance",
     company: "Unity University",
     description:
       "Achieved a GPA of 3.7. Served as the captain of the graduation committee and vice president of the English club. Facilitated sponsorships for the charity club.",
-    icon: "<School />",
+    icon: <School />,
   },
   {
     duration: "October 2023 - Present",
     title: "Masters of Marketing Management",
     company: "Ethiopian Civil Service University",
     description:
-      "Currently pursuing a Master's degree in Marketing Management.",
-    icon: "<School />",
+      "Currently pursuing a Master's degree in diplomacy and interntional affair.",
+    icon: <School />,
   },
 ];
 const Header = styled(Box)(({ theme }) => ({

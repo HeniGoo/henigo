@@ -43,34 +43,25 @@ const AboutMe = () => {
             </AnimatedBox>
             <AnimatedBox variant="slideInLeft">
               <Typography variant="body1" sx={classes.paragraph}>
-                As a strategic Marketing Manager with extensive experience in
-                customer support, I excel at developing and executing
-                multi-channel marketing campaigns that drive customer
-                acquisition and retention. With a solid background in leveraging
-                social media, analytics, and influencer partnerships, I have a
-                proven ability to enhance customer experiences and foster
-                long-term relationships.
+                .
               </Typography>
             </AnimatedBox>
             <AnimatedBox variant="slideInLeft">
-              <Typography variant="body1" sx={classes.paragraph}>
-                Currently, I lead marketing initiatives for Addis International
-                Bank and the Ethiopian Youth Entrepreneur Association (EYEA),
-                where I apply my customer-centric insights to design impactful
-                strategies that resonate with diverse audiences. My hands-on
-                experience at Zebib Transport PLC has further sharpened my
-                skills in addressing customer needs, resolving inquiries, and
-                delivering exceptional service.
-              </Typography>
+              <Typography variant="body1" sx={classes.paragraph}></Typography>
             </AnimatedBox>
             <AnimatedBox variant="slideInLeft">
               <Typography variant="body1" sx={classes.paragraph}>
-                Passionate about data-driven decision-making and staying ahead
-                of industry trends, I am dedicated to creating solutions that
-                not only meet but exceed customer expectations. My goal is to
-                apply my comprehensive marketing and customer support expertise
-                to drive meaningful growth and build stronger connections with
-                clients.
+                Dedicated to the intersection of technology and finance,
+                I&apos;m currently immersed in the dynamic world of blockchain
+                and cryptocurrency. Fascinated by the potential of fintech to
+                revolutionize traditional financial systems, I&apos;m passionate
+                about staying abreast of industry trends and developments. With
+                a keen interest in Ethiopia&apos;s macroeconomic landscape,
+                I&apos;m closely following the evolution of the capital market
+                and exploring opportunities within the securities exchange and
+                investment banking sectors. My goal is to leverage my knowledge
+                and skills to contribute to the growth and development of
+                Ethiopia financial ecosystem.
               </Typography>
             </AnimatedBox>
             <Box sx={classes.btnContainer}>
@@ -78,7 +69,7 @@ const AboutMe = () => {
                 style={{ backgroundColor: "#9BF2EA", color: "#260101" }}
                 variant="contained"
                 startIcon={<DownloadIcon />}
-                href="./Henok Berhanu resume edited.pdf"
+                href="./Henok-Berhanu-FlowCV-Resume-new .pdf"
               >
                 Download CV
               </Button>

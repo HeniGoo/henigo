@@ -46,7 +46,7 @@ const HomeHeader = () => {
             </Description>
           </AnimatedBox>
           <MainButton
-            href="./Henok Berhanu resume edited.pdf"
+            href="./Henok-Berhanu-FlowCV-Resume-new .pdf"
             className="main-btn"
             download
           >
