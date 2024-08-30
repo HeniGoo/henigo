@@ -74,7 +74,7 @@ const Education: React.FC = () => {
   },
   {
     "school": "Ethiopian Civil Service University",
-    "degree": "Masters of Marketing Management",
+    "degree": "Masters of diplomacy and foreign affairs",
     "location": "Addis Ababa, Ethiopia",
     "year": "10/2023 – present"
   }
